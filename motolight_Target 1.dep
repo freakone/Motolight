@@ -1,0 +1,43 @@
+Dependencies for Project 'motolight', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x55AE1690)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I C:\Users\ffrea_000\Documents\MOTOLIGHT\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F051-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x54C2A828)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\stm32f0xx.h)(0x548EFB8E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm0.h)(0x5368DF0C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C2A828)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x53030540)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x53030540)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\system_stm32f0xx.h)(0x548EFB8E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x54C2A828)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C2A828)
+I (i2c.h)(0x55AE145B)
+I (stm32f0xx_misc.h)(0x55AE0BF4)
+I (stm32f0xx_conf.h)(0x55AE0BE2)
+F (.\i2c.c)(0x55AE1681)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I C:\Users\ffrea_000\Documents\MOTOLIGHT\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F051-o .\i2c.o --omf_browse .\i2c.crf --depend .\i2c.d)
+I (i2c.h)(0x55AE145B)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\stm32f0xx.h)(0x548EFB8E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm0.h)(0x5368DF0C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C2A828)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x53030540)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x53030540)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\system_stm32f0xx.h)(0x548EFB8E)
+I (stm32f0xx_misc.h)(0x55AE0BF4)
+I (stm32f0xx_conf.h)(0x55AE0BE2)
+F (.\stm32f0xx_misc.c)(0x54809B23)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I C:\Users\ffrea_000\Documents\MOTOLIGHT\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F051-o .\stm32f0xx_misc.o --omf_browse .\stm32f0xx_misc.crf --depend .\stm32f0xx_misc.d)
+I (stm32f0xx_misc.h)(0x55AE0BF4)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\stm32f0xx.h)(0x548EFB8E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm0.h)(0x5368DF0C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C2A828)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x53030540)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x53030540)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\system_stm32f0xx.h)(0x548EFB8E)
+I (stm32f0xx_conf.h)(0x55AE0BE2)
+F (.\stm32f0xx_misc.h)(0x55AE0BF4)()
+F (.\stm32f0xx_conf.h)(0x55AE0BE2)()
+F (RTE\Device\STM32F051C8\startup_stm32f051.s)(0x548EFB8E)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Users\ffrea_000\Documents\MOTOLIGHT\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include--pd "__UVISION_VERSION SETA 515" --pd "_RTE_ SETA 1" --pd "STM32F051 SETA 1"--list .\startup_stm32f051.lst --xref -o .\startup_stm32f051_1.o --depend .\startup_stm32f051_1.d)
+F (RTE\Device\STM32F051C8\system_stm32f0xx.c)(0x548EFB8E)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I C:\Users\ffrea_000\Documents\MOTOLIGHT\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F051-o .\system_stm32f0xx.o --omf_browse .\system_stm32f0xx.crf --depend .\system_stm32f0xx.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\stm32f0xx.h)(0x548EFB8E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm0.h)(0x5368DF0C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C2A828)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x53030540)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x53030540)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\system_stm32f0xx.h)(0x548EFB8E)
