@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include "i2c.h"
+#include "usart.h"
 
 int main(void)
 {
@@ -17,10 +18,12 @@ int main(void)
 	i2c_wait();
 	i2c_read(0x38, 0x2A, 1);
 	
+	usart_init();
+	
 	while(1)
 	{
 		GPIOB->ODR ^= GPIO_ODR_7;
-		
+		usart_write(0x0D);
 		for(int i = 0; i < 2000000; i++);
 		
 	}
