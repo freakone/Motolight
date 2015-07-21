@@ -13,7 +13,9 @@ int main(void)
 	
 	
 	i2c_init();
-	i2c_read(0x38, 0x0D, 6);
+	i2c_single_write(0x38, 0x2A, 0x01);
+	i2c_wait();
+	i2c_read(0x38, 0x2A, 1);
 	
 	while(1)
 	{

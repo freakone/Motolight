@@ -1,5 +1,5 @@
 Dependencies for Project 'motolight', Target 'Target 1': (DO NOT MODIFY !)
-F (.\main.c)(0x55AE1690)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I C:\Users\ffrea_000\Documents\MOTOLIGHT\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F051-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+F (.\main.c)(0x55AE38E7)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I C:\Users\ffrea_000\Documents\MOTOLIGHT\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F051-o .\main.o --omf_browse .\main.crf --depend .\main.d)
 I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x54C2A828)
 I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\stm32f0xx.h)(0x548EFB8E)
 I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm0.h)(0x5368DF0C)
@@ -9,11 +9,11 @@ I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x53030540)
 I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\system_stm32f0xx.h)(0x548EFB8E)
 I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x54C2A828)
 I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C2A828)
-I (i2c.h)(0x55AE145B)
+I (i2c.h)(0x55AE3280)
 I (stm32f0xx_misc.h)(0x55AE0BF4)
 I (stm32f0xx_conf.h)(0x55AE0BE2)
-F (.\i2c.c)(0x55AE1681)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I C:\Users\ffrea_000\Documents\MOTOLIGHT\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F051-o .\i2c.o --omf_browse .\i2c.crf --depend .\i2c.d)
-I (i2c.h)(0x55AE145B)
+F (.\i2c.c)(0x55AE36DF)(--c99 -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I C:\Users\ffrea_000\Documents\MOTOLIGHT\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F051-o .\i2c.o --omf_browse .\i2c.crf --depend .\i2c.d)
+I (i2c.h)(0x55AE3280)
 I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\stm32f0xx.h)(0x548EFB8E)
 I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm0.h)(0x5368DF0C)
 I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C2A828)
